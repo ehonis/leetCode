@@ -1,2 +1,3 @@
-# leetCode
-# leetCode
+# leetCode Problems
+
+they might be the best solutions, but they work?....
