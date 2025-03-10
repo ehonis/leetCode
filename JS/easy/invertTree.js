@@ -1,3 +1,6 @@
+//solved this problem on my own, asked chatgpt to generate n amount of nodes for fun.
+//invert tree function is not 100% my own, but my solution had the same structure and worked the same way, just alittle more verbose.
+
 function TreeNode(val, left, right) {
   this.val = val === undefined ? 0 : val;
   this.left = left === undefined ? null : left;
